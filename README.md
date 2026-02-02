@@ -6,7 +6,9 @@ This repository contains the analysis code originally written in a Jupyter Noteb
 
 ## 📄 Description
 
-This project analyzes meteorological data and flight delay patterns using Python. It applies regression techniques and seasonal analysis based on 10 years of flight and weather data.
+This repository contains the analysis scripts used to investigate the impact of meteorological conditions on flight delays at Hartsfield–Jackson Atlanta International Airport (ATL) during 2013–2023.
+
+Python (Jupyter Notebook–based) scripts were used for data preprocessing, regression analyses, and the generation of most figures and tables (Figures 2, 4, 5, and 6; Tables 2 and 3). MATLAB was used specifically for the computation and visualization of seasonal statistics presented in Figure 3 and Table 1.
 
 ## 📁 Contents
 
