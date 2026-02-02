@@ -12,9 +12,9 @@ Python (Jupyter Notebook–based) scripts were used for data preprocessing, regr
 
 ## 📁 Contents
 
-- `scripts/code_paper_converted.py`: Auto-generated script from the original Jupyter Notebook.
-- `requirements.txt`: Python dependencies.
-- `figures/`: (Optional) Output plots from the analysis.
+- `scripts/code_paper_converted.py`: Python script converted from the original Jupyter Notebook and used for data processing and analysis.
+- `requirements.txt`: List of Python dependencies required to reproduce the analysis.
+- `figures/`: Figures included in the manuscript and generated from the analysis.
 
 ## 🔗 Data Sources
 
