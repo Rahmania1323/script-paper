@@ -18,8 +18,8 @@ Python (Jupyter Notebook–based) scripts were used for data preprocessing, regr
 
 ## 🔗 Data Sources
 
-- **Meteorological Data**: NASA POWER Project  
-  https://power.larc.nasa.gov  
+- **Meteorological data**: NASA POWER (Prediction Of Worldwide Energy Resources), accessed via the NASA POWER Data Access Viewer  
+  https://power.larc.nasa.gov/data-access-viewer/
 
 - **Flight Operational Data**: Bureau of Transportation Statistics (BTS),  
   Weather’s Share of Delayed Flights database (Atlanta, GA – ATL)  
