@@ -18,8 +18,12 @@ Python (Jupyter Notebook–based) scripts were used for data preprocessing, regr
 
 ## 🔗 Data Sources
 
-- **Meteorological Data**: NASA POWER — https://power.larc.nasa.gov  
-- **Flight Delay Data**: BTS Transtats — https://www.transtats.bts.gov
+- **Meteorological Data**: NASA POWER Project  
+  https://power.larc.nasa.gov  
+
+- **Flight Operational Data**: Bureau of Transportation Statistics (BTS),  
+  Weather’s Share of Delayed Flights database (Atlanta, GA – ATL)  
+  https://www.transtats.bts.gov/ot_delay/ot_delaycause1.asp?6B2r=G&20=E
 
 ## ▶️ How to Run
 
