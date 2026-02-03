@@ -93,7 +93,7 @@ plt.show()
 
 
     
-![png](atl_weather_delay_analysis_files/atl_weather_delay_analysis_2_0.png)
+![png](../atl_weather_delay_analysis_files/atl_weather_delay_analysis_2_0.png)
     
 
 
@@ -167,7 +167,7 @@ plt.show()
 
 
     
-![png](atl_weather_delay_analysis_files/atl_weather_delay_analysis_4_0.png)
+![png](../atl_weather_delay_analysis_files/atl_weather_delay_analysis_4_0.png)
     
 
 
@@ -325,7 +325,7 @@ if __name__ == "__main__":
 
 
     
-![png](atl_weather_delay_analysis_files/atl_weather_delay_analysis_6_0.png)
+![png](../atl_weather_delay_analysis_files/atl_weather_delay_analysis_6_0.png)
     
 
 
@@ -425,7 +425,7 @@ plt.show()
 
 
     
-![png](atl_weather_delay_analysis_files/atl_weather_delay_analysis_8_0.png)
+![png](../atl_weather_delay_analysis_files/atl_weather_delay_analysis_8_0.png)
     
 
 
