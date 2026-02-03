@@ -8,7 +8,7 @@ This repository contains analysis code and data for the study:
 
 ## 📄 Description
 
-This repository provides scripts to investigate the impact of meteorological conditions on flight delays at ATL airport during 2013–2023.  
+This repository provides scripts to investigate the impact of meteorological conditions on flight delays at ATL airport during 2013–2023.
 
 - **Python (Jupyter Notebook)** scripts handle data preprocessing, regression analyses, and generation of Figures 2, 4, 5, and 6, as well as Tables 2 and 3.  
 - **MATLAB** scripts are used specifically for seasonal statistics computation and visualization (Figure 3 and Table 1).
@@ -41,4 +41,3 @@ This repository provides scripts to investigate the impact of meteorological con
 
 ```bash
 pip install -r requirements.txt
-
