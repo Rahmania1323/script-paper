@@ -33,7 +33,6 @@ atl-weather-delay-analysis/
 ├── LICENSE
 └── README.md
 
-
 - `data/` → source Excel and CSV datasets  
 - `outputs/` → generated figures and CSV summaries  
 - `scripts/` → Python notebooks and MATLAB scripts  
