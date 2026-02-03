@@ -1,0 +1,7 @@
+Variable,F-Stat,p-value,Seasonal Effect,Significant
+NumberOfDelays,26.1464,<0.001,Significant,Yes
+Temperature,133.575,<0.001,Significant,Yes
+Pressure,25.0215,<0.001,Significant,Yes
+Precipitation,6.66535,<0.001,Significant,Yes
+Relative Humidity (RH),32.3238,<0.001,Significant,Yes
+Vector Wind Shear,98.5002,<0.001,Significant,Yes
