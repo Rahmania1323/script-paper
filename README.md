@@ -15,23 +15,7 @@ This repository provides scripts to investigate the impact of meteorological con
 
 ---
 
-## 📁 Repository Structure
-
-atl-weather-delay-analysis/
-├── data/ ← Raw datasets
-│ ├── Data Variabel Meteorologi.xlsx
-│ ├── Data Variabel Meteorologi.csv
-│ ├── data speed and direction.xlsx
-│ └── data speed and direction.csv
-├── outputs/ ← Generated figures and CSV results
-│ ├── ANOVA_Summary.csv
-│ └── Seasonal_Analysis_ATL.png
-├── scripts/ ← Analysis scripts
-│ ├── Seasonal_mean_weather_delay_analysis_ATL.m
-│ └── atl_weather_delay_analysis.ipynb
-├── .gitignore
-├── LICENSE
-└── README.md
+## 📁 Structure
 
 - `data/` → source Excel and CSV datasets  
 - `outputs/` → generated figures and CSV summaries  
